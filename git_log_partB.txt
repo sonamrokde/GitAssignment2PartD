@@ -1,0 +1,121 @@
+commit 461b183497f344f97d22ca6dd2f50036287ac325
+Author: srokde <sonam.rokde@nike.com>
+Date:   Sat Apr 23 23:53:10 2016 -0700
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..ee204aa
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2017 Programmer analyst intern
+
+commit 9d77632ca5bb8b3a0d22fe95510433fa6c356d3d
+Author: srokde <sonam.rokde@nike.com>
+Date:   Sat Apr 23 23:41:04 2016 -0700
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index c22f029..69c87fc 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ MS in Software Engineering
+ Pok Pok
+ Persuit of Happiness
++Red
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index ee204aa..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2017 Programmer analyst intern
+
+commit b93d433815c5c33426d8941cf1b968627f6635b7
+Author: srokde <sonam.rokde@nike.com>
+Date:   Sat Apr 23 23:30:02 2016 -0700
+
+    new file with grad year and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..ee204aa
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2017 Programmer analyst intern
+
+commit 10e906e7269988eb8cf5e1f74bce2a5f7f462e0d
+Author: srokde <sonam.rokde@nike.com>
+Date:   Sat Apr 23 23:12:20 2016 -0700
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 7df2a67..c22f029 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ MS in Software Engineering
++Pok Pok
++Persuit of Happiness
+
+commit c45f8e43e2449a645b606c2eef900d3dd502488e
+Author: srokde <sonam.rokde@nike.com>
+Date:   Sat Apr 23 23:04:27 2016 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 14f7035..7df2a67 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Software Engineering
++MS in Software Engineering
+
+commit 1898d16cc8ad2747e3333c97e3ec14cae4655985
+Author: srokde <sonam.rokde@nike.com>
+Date:   Sat Apr 23 22:42:04 2016 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 0051448..14f7035 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,7 +1 @@
+-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+-{\colortbl;\red255\green255\blue255;}
+-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+-
+-\f0\fs24 \cf0 Sonam Rokde 88376}
+\ No newline at end of file
++Software Engineering
+
+commit 7c4ddbbbacb806c52f4272e81d5025d02e18b19f
+Author: srokde <sonam.rokde@nike.com>
+Date:   Sat Apr 23 20:12:48 2016 -0700
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..0051448
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,7 @@
++{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
++{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
++{\colortbl;\red255\green255\blue255;}
++\margl1440\margr1440\vieww10800\viewh8400\viewkind0
++\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
++
++\f0\fs24 \cf0 Sonam Rokde 88376}
+\ No newline at end of file
